@@ -1,0 +1,6 @@
+[submodule "jobs-board-client"]
+	path = jobs-board-client
+	url = https://github.com/ahmedosama-st/jobs-board-client
+[submodule "jobs-board-api"]
+	path = jobs-board-api
+	url = https://github.com/ahmedosama-st/jobs-board-api
